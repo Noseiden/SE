@@ -1,0 +1,3 @@
+# Desarrollo de un videojuego en hardware embebido con visualización matricial
+
+## El proyecto consiste en el desarrollo de un sistema embebido interactivo utilizando una matriz LED y un microcontrolador ESP32. Se implementa un juego de esquiva donde se emplean técnicas de multiplexación, temporización precisa y control de entradas digitales mediante interrupciones para garantizar una respuesta en tiempo real.
