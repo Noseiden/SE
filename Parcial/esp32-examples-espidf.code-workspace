@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Embebidos profe/esp32-examples-espidf"
+		},
+		{
+			"name": "Timer",
+			"path": "../Projects/Timer"
+		},
+		{
+			"name": "ISR",
+			"path": "../Projects/ISR"
+		},
+		{
+			"name": "ISRejemplo2",
+			"path": "../Projects/ISRejemplo2"
+		},
+		{
+			"name": "1",
+			"path": "../TallerParcialEmbebidos/1"
+		},
+		{
+			"name": "2",
+			"path": "../TallerParcialEmbebidos/2"
+		},
+		{
+			"name": "3",
+			"path": "../TallerParcialEmbebidos/3"
+		},
+		{
+			"name": "4",
+			"path": "../TallerParcialEmbebidos/4"
+		},
+		{
+			"name": "5",
+			"path": "../TallerParcialEmbebidos/5"
+		},
+		{
+			"name": "Parcial",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
